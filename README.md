@@ -6,3 +6,5 @@ Portland Crime Data is an exploration and visualization of time-series data in P
 Land Cover Classification uses supervised machine learning techniques to classify forest types in Colorado. 
 
 Reuters Clustering uses NLP and unsupervised clustering to label news articles by topic.
+
+Face Analysis with TensorFlow CNN uses an autoencoder via TensorFlow/Keras to do unsupervised clustering on faces.
